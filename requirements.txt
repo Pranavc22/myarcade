@@ -10,3 +10,4 @@ pwdlib[argon2]
 itsdangerous
 pytest
 httpx
+python-dotenv
